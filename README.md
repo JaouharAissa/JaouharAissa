@@ -154,5 +154,5 @@ I'm always interested in connecting with developers, engineers, recruiters, and 
 Whether it's AI, Machine Learning, DevOps, MLOps, Cloud Engineering, open-source projects, or exciting internship opportunities, feel free to reach out!
 
 - 📧 **Email:** [jaouhar.aissa7@gmail.com](mailto:jaouhar.aissa7@gmail.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/jaouhar-aissa-4a355b2a1)
 - 🌍 **Open to:** International opportunities, remote collaboration, and relocation worldwide.
