@@ -1,41 +1,35 @@
-<h1 align="center">Hi, I'm Jaouhar Aissa 👋</h1>
+# Hi, I'm Jaouhar Aissa 👋
 
-<h3 align="center">Software Engineering Student · AI & DevOps</h3>
+### Software Engineering Student · AI & DevOps
 
-<p align="center">
-  I build deep learning models and LLM assistants, then ship them to production on Kubernetes with CI/CD, GitOps and monitoring.
-</p>
+I build deep learning models and LLM-powered assistants, then deploy them using Kubernetes, CI/CD, GitOps, and monitoring. I'm passionate about bridging the gap between machine learning and production infrastructure.
 
-<p align="center">
-  <a href="mailto:jaouhar.aissa7@gmail.com"><img src="https://img.shields.io/badge/Email-jaouhar.aissa7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Jaouhar%20Aissa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
-
-<p align="center">
-  📍 Nabeul, Tunisia &nbsp;|&nbsp; 🗣️ French (B1) · English (B2) &nbsp;|&nbsp; ✈️ Open to relocation to France
-</p>
+📍 Nabeul, Tunisia · 🌍 Open to global opportunities and international collaboration
 
 ---
 
-## 🎯 Currently looking for
+## 🎯 Currently Looking For
 
-> **Final-year engineering internship (PFE) in France, in DevOps / MLOps or AI.**
-> I'm at my best where machine learning meets infrastructure: training the model *and* making it run reliably in production.
+**Final-year engineering internship (PFE) or opportunities in AI, DevOps, MLOps, and Cloud Engineering.**
 
----
+I'm especially interested in projects where machine learning meets infrastructure: building intelligent solutions and making them reliable, scalable, secure, and production-ready.
 
-## 🔭 What I do
-
-- 🤖 **Generative AI & LLMs:** local assistants with Llama 3.1 (Ollama), Function Calling, fine-tuning with Hugging Face, protection against prompt injection and hallucinations
-- 🧠 **Deep Learning:** computer vision and NLP with TensorFlow, Keras, CNN, LSTM, ResNet50, DistilBERT
-- ⚙️ **DevOps & MLOps:** Docker, Kubernetes (GKE Autopilot), GitHub Actions, ArgoCD (GitOps), Cloud Build
-- 🔐 **Security & observability:** SonarQube, Trivy, Prometheus, Grafana
+I'm open to opportunities worldwide, remote collaboration, and international relocation.
 
 ---
 
-## 🛠️ Tech stack
+## 🔭 What I Do
 
-**AI / ML**
+- 🤖 **Generative AI & LLMs:** Local AI assistants with Llama 3.1 and Ollama, function calling, Hugging Face, and AI security.
+- 🧠 **Deep Learning:** Computer vision and NLP using TensorFlow, Keras, CNNs, LSTMs, ResNet50, and DistilBERT.
+- ⚙️ **DevOps & MLOps:** Docker, Kubernetes, GKE Autopilot, GitHub Actions, ArgoCD, GitOps, and Cloud Build.
+- 🔐 **DevSecOps & Observability:** SonarQube, Trivy, Prometheus, Grafana, and automated security checks.
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -57,7 +51,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Kustomize](https://img.shields.io/badge/Kustomize-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS%20(basics)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20(Basics)-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 **Observability / Security**
 
@@ -80,60 +74,71 @@
 
 ---
 
-## 🚀 Featured projects
+## 🚀 Featured Projects
 
-### 🎥 Real-time Violence Detection: Deep Learning & MLOps
-Two-Stream **ResNet50 + LSTM** model (RGB + optical flow) with an OpenCV preprocessing pipeline.
-- **95 % accuracy · 0.98 AUC · 0.95 F1** (+7 % over a CNN-LSTM baseline)
-- Deployed cloud-native: **Docker, GKE Autopilot, Kustomize, Cloud Build CI/CD, Cloud SQL (PostgreSQL)**
-- Stack: TensorFlow · FastAPI · React
+### 🎥 Real-Time Violence Detection: Deep Learning & MLOps
+
+Two-Stream ResNet50 + LSTM model combining RGB frames and optical flow with an OpenCV preprocessing pipeline.
+
+- **95% accuracy · 0.98 AUC · 0.95 F1**
+- Cloud-native deployment using Docker, GKE Autopilot, Kustomize, Cloud Build CI/CD, and Cloud SQL.
+- **Stack:** TensorFlow · FastAPI · React · PostgreSQL
 
 ### 🔄 End-to-End DevOps: CI/CD & GitOps Pipeline
-A fully automated delivery chain, from commit to monitored production.
-- **CI** with GitHub Actions: lint, tests, build, SonarQube analysis, Docker build & push (pipeline fails on error)
-- **GitOps CD** on Kubernetes with ArgoCD, with zero manual deployment commands
-- **DevSecOps:** Trivy scans of dependencies and images, GitHub Secrets, blocking on critical vulnerabilities
-- **Monitoring:** `/metrics` endpoint, Prometheus, Grafana dashboards and alerting
 
-### 🛍️ E-commerce Platform with AI Sentiment Analysis
-Full-stack app (Next.js, Node.js, MongoDB) delivered in 3 Scrum sprints, with a Python microservice running a fine-tuned **DistilBERT (SST-2)** that classifies reviews as positive, neutral or negative.
+An automated delivery pipeline designed to take code from commit to monitored deployment.
 
-### 🧩 More projects
+- **CI:** GitHub Actions, linting, tests, Docker builds, and SonarQube analysis.
+- **GitOps CD:** Kubernetes deployments managed through ArgoCD.
+- **DevSecOps:** Trivy vulnerability scanning and GitHub Secrets.
+- **Monitoring:** Prometheus metrics, Grafana dashboards, and alerting.
+
+### 🛍️ E-Commerce Platform with AI Sentiment Analysis
+
+A full-stack e-commerce application built with Next.js, Node.js, and MongoDB, integrated with a Python microservice using fine-tuned DistilBERT for review sentiment classification.
+
+### 🧩 More Projects
+
 | Project | Highlights |
 |---|---|
-| Financial fraud detection | Random Forest, SMOTE |
-| Project management app | Spring Boot, Angular, docker-compose |
-| 3D editor | Next.js, TypeScript, GitHub Actions, Vercel |
-| FlutterTrello · QuickBite | Flutter · ASP.NET Core |
+| Financial Fraud Detection | Random Forest, SMOTE |
+| Project Management App | Spring Boot, Angular, Docker Compose |
+| 3D Editor | Next.js, TypeScript, GitHub Actions, Vercel |
+| FlutterTrello | Flutter |
+| QuickBite | ASP.NET Core |
 
 ---
 
 ## 💼 Experience
 
-**🏦 AI & Data Engineer Intern, BIAT (Management Control), Tunisia · 2026**
-- Built a **local generative-AI assistant** (Llama 3.1 via Ollama, SQLite) that lets controllers query financial KPIs in natural language, using a **Function Calling architecture with 19 Python tools**
-- Automated Word and PowerPoint report generation; built weak-signal detection (pandas, SQL) and a **churn prediction model** (Random Forest, 86.65 %)
-- Secured the assistant: read-only access, parameterized SQL, prompt-injection and hallucination protection, JSON audit logging
-- Validated with a **pytest suite (10/10 passing)**
+### 🏦 AI & Data Engineer Intern · BIAT · 2026
 
-**📱 Mobile Development Intern, Maison du Web · 2025**
-Built *myNote*, a notes app with React Native and Firebase (authentication, real-time Firestore CRUD, notifications), modeled in UML.
+- Developed a local generative AI assistant using Llama 3.1, Ollama, and SQLite to query financial KPIs in natural language.
+- Implemented function calling with 19 Python tools.
+- Automated Word and PowerPoint reports and developed a churn prediction model.
+- Applied read-only database access, parameterized SQL, prompt-injection safeguards, and audit logging.
+- Validated functionality with automated pytest tests.
 
-**🧪 Test Automation Intern, Maison du Web · 2024**
-Automated end-to-end tests (Python, Selenium, Page Object Model) and tracked them in Jira within an Agile team.
+### 📱 Mobile Development Intern · Maison du Web · 2025
 
----
+Built *myNote*, a React Native and Firebase notes application featuring authentication, real-time data operations, and notifications.
 
-## 🎓 Education & certifications
+### 🧪 Test Automation Intern · Maison du Web · 2024
 
-- 🎓 **IT Business School (ITBS):** Engineering Degree in Software Engineering, 2024 – present (preceded by the integrated preparatory cycle, 2022 – 2024)
-- 📜 AWS Academy Machine Learning Foundations (2025)
-- 📜 Python Data Associate, DataCamp (2025)
-- 📜 Scrum Fundamentals Certified (2026)
+Automated end-to-end tests using Python, Selenium, and the Page Object Model, with test tracking in Jira within an Agile team.
 
 ---
 
-## 📊 GitHub stats
+## 🎓 Education & Certifications
+
+- 🎓 **IT Business School (ITBS):** Engineering Degree in Software Engineering, 2024–present, following the integrated preparatory cycle (2022–2024).
+- 📜 AWS Academy Machine Learning Foundations · 2025
+- 📜 Python Data Associate · DataCamp · 2025
+- 📜 Scrum Fundamentals Certified · 2026
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaouharAissa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
@@ -142,7 +147,12 @@ Automated end-to-end tests (Python, Selenium, Page Object Model) and tracked the
 
 ---
 
-## 📫 Let's connect
+## 📫 Let's Connect
 
-I'm happy to talk about AI, MLOps, DevOps, or a PFE opportunity in France.
-**Email:** [jaouhar.aissa7@gmail.com](mailto:jaouhar.aissa7@gmail.com)
+I'm always interested in connecting with developers, engineers, recruiters, and technology enthusiasts around the world.
+
+Whether it's AI, Machine Learning, DevOps, MLOps, Cloud Engineering, open-source projects, or exciting internship opportunities, feel free to reach out!
+
+- 📧 **Email:** [jaouhar.aissa7@gmail.com](mailto:jaouhar.aissa7@gmail.com)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- 🌍 **Open to:** International opportunities, remote collaboration, and relocation worldwide.
