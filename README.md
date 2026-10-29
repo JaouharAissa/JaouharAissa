@@ -42,16 +42,9 @@ I build AI-powered applications and automate their deployment using Docker, Kube
 - Python Data Associate · DataCamp
 - Scrum Fundamentals Certified
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=JaouharAissa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaouharAissa&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
 ### 📫 Let's Connect
 
 - 📧 [Email](mailto:jaouhar.aissa7@gmail.com)
 - 💼 [LinkedIn](www.linkedin.com/in/jaouhar-aissa-4a355b2a1)
 
-Open to international opportunities and collaboration in AI, DevOps, and Cloud Engineering.
+
